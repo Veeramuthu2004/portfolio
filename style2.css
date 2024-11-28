@@ -1,0 +1,78 @@
+div{
+    margin-top: 80px;
+    margin-left: 80px;
+    font-size: 50px;
+}
+
+.form{
+    border-radius: 70px;
+    box-shadow: 2px 3px 10px;
+    width: 30%;
+    margin-top: 110px;
+   padding: 70px;
+   margin-bottom: 150px;
+   margin-left: 180px;
+
+}
+.tr1{
+    padding-top: 20px;
+padding-top: 10px;
+font-size: 30px;
+margin-left: 20px;
+text-align: justify;
+vertical-align: inherit;
+
+}
+.tr1>input{
+    border: -190px;
+    text-align:justify;
+    vertical-align: inherit;
+    }
+
+.td2{
+    padding-top: 20px;
+    font-size: 30px;
+    vertical-align: inherit;
+    
+
+}
+.td3{
+    padding-top:  20px;
+    font-size: 30px;
+    vertical-align: inherit;
+   
+}
+.sub > input{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px;
+    margin-top: 90px;
+  
+}
+.sub>input:hover{
+    transition:1s;
+    background: rgb(56,130,209);
+    color:white;
+    
+}
+.sub>input:hover{
+    transition:1s;
+    background: rgb(56,130,209);
+    color:white;
+    
+}
+div>footer>h1{
+    background-color: black;
+padding-bottom: 10px;    position:absolute;
+position:absolute;
+margin-top: 210px;
+color: white;
+font-size: 20px;
+margin-left: -340px;
+text-align: center;
+display: block;
+width: 100%;
+padding: 60px;
+
+}
